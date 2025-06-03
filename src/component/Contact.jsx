@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <div className="px-[18rem]">
+    <div className="section" id="contact">
       <div>
         <h1 className="text-5xl text-center font-bold  mb-[3rem]">
           Contact Us

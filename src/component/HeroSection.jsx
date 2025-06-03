@@ -1,6 +1,6 @@
 function HeroSection() {
   return (
-    <div className="px-[18rem] ">
+    <div className="section">
       <div className=" flex justify-evenly py-7 text-zinc-700 bg-zinc-90">
         <main className="text-[19px] gap-2 flex flex-col w-[40rem]">
           <h1 className="font-bold text-4xl ">

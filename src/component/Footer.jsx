@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <div className="flex justify-between px-[18rem] bg-teal-700 text-zinc-50 py-5">
+    <div className="section flex justify-between bg-teal-700 text-zinc-50 py-5" id="footer">
       <div className="italic">
         <p>Keem Rocket-Powered Products, Inc.</p>
         <p>55 Astro Way</p>

@@ -1,6 +1,6 @@
 function Testimonial() {
   return (
-    <div className="px-[18rem] text-2xl mb-[6rem]">
+    <div className="section text-2xl mb-[6rem]" id="testimony">
       <h1 className="text-center font-bold text-5xl mb-[3rem]">Testimonials</h1>
       <div className="bg-teal-700 text-zinc-50 p-10 rounded-4xl">
         <p>
