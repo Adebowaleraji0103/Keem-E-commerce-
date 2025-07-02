@@ -1,9 +1,11 @@
 @import "tailwindcss";
 
-@layer components {
-  .section {
-    @apply px-[18rem];
-  }
+@layer components{
+    .section{
+        @apply
+            px-[20rem]
+        
+    }
 }
 
 body {
