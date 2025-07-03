@@ -1,5 +1,4 @@
 import RocketImage from "./RocketImage";
-import { motion } from "framer-motion";
 
 function Rocket() {
   return (
