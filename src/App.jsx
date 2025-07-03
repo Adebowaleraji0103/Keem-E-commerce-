@@ -4,6 +4,7 @@ import Rocket from "./component/Rocket";
 import Testimonial from "./component/Testimonial";
 import Contact from "./component/Contact";
 import Footer from "./component/Footer";
+import { motion } from "framer-motion";
 
 function App() {
   return (
